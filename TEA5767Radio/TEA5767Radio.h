@@ -9,7 +9,7 @@ class TEA5767Radio
         int _address
     public:
         TEA5767Radio();
-        TEA5767Radio(int adress);
+        TEA5767Radio(int address);
         void setFrequency(float frequency);
 };
 

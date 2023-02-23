@@ -1,0 +1,5 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "SHT31TempHumdi/example/sht31Test/sht31Test.ino"
+}
